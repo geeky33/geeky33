@@ -11,7 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 About Me:
-I'm a **sophomore** pursuing my **Bachelor's in Computer Engineering** at Veermata Jijabai Technological Institute.
+I'm a **pre-final year student** pursuing my **Bachelor's in Computer Engineering** at Veermata Jijabai Technological Institute, Mumbai
 </br> I'm deeply passionate about **Machine Learning, NLP, and Web Development** and am constantly exploring ways to innovate and contribute to impactful projects.
 
 - 📚 Always eager to **learn new technologies** and adapt my skills for project requirements
